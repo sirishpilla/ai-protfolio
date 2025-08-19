@@ -1,0 +1,23 @@
+{
+  "Recruiter": {
+    "opening": "Lead with role fit and outcomes.",
+    "must_include": ["top skills", "years of experience", "business outcome metric"],
+    "avoid": ["deep technical jargon"],
+    "tone": "professional, concise, skills-first"
+  },
+  "Project Manager": {
+    "opening": "Lead with delivery, scope, and risk handling.",
+    "must_include": ["timeline hit/missed", "scope control", "stakeholder impact"],
+    "tone": "results-driven, clear"
+  },
+  "Developer": {
+    "opening": "Lead with architecture and trade-offs.",
+    "must_include": ["tech stack", "key design decision", "performance consideration"],
+    "tone": "technical, precise"
+  },
+  "Non-Technical": {
+    "opening": "Lead with benefits and user impact; avoid jargon.",
+    "must_include": ["user value", "business value", "ease of use"],
+    "tone": "plain, benefit-focused"
+  }
+}
